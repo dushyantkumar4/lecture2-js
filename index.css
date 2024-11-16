@@ -1,0 +1,99 @@
+/* *{text-align:center;}
+
+#mainTopic{color:blue;}
+h1,h3{font-family: Georgia;}
+p{color:white;
+background-color: cornflowerblue;}
+button{color:azure;background-color: purple ;}
+button:hover{background-color: yellow;color:blue;}
+p:nth-of-type(2n-1){
+    background-color: yellow;
+}
+h1::first-letter{
+    color:red;
+}
+input:checked+label{
+    color:darkgreen
+} */
+/* .main{height: 200px;width: 70px;
+border:2px solid black;}
+.child{
+    height: 50px;width: 50px;border:2px solid black;
+    margin: 10px;
+    border-radius: 50%;
+}
+.child:nth-child(1){background-color: red;}
+.child:nth-child(2){
+    background-color: yellow;
+}
+.child:nth-child(3){
+    background-color: green;
+} */
+ /* div{ */
+    /* height: 150px;width: 300px;
+    background-color: gray;
+    border:5px dotted black;
+    padding:1em;
+    margin:20px 1em 40px 2em;
+ }
+ */
+ /* div{
+    height: 100px;width: 100px;
+    background-color: pink;
+    border: 2px solid black;
+    border-radius: 50%;
+    display: inline-block;
+ } */
+  /* ul{
+    list-style: none;
+    
+  }
+  li{display: inline;} */
+  /* div{
+    width: 400px;height: 200px;
+    margin:100px auto;
+    background-color: #7aa874;
+    background-image: url("f\ pace5.jpeg");
+    background-size: cover;
+  } */
+   body{background-color: bisque;}
+.main{
+    margin:0 auto;
+    background-color: white;
+    height: 210px;
+    width: 250px;
+    
+}
+.inerdiv{
+    background-color: orange;
+    height: 200px;width: 200px;
+    border-radius: 50%;
+    margin:0 auto;
+    position: relative;
+}
+
+.firstdiv{background-color: black;
+height: 20px;width: 20px;
+border-radius: 50%;
+position:absolute;
+left:60px;
+top:50px;}
+.seconddiv{
+    background-color: black;
+    height: 20px;width: 20px;
+    border-radius: 50%;
+    position:absolute;
+    left:120px;
+    top:50px;
+}
+.thirddiv{
+    background-color: brown;
+    height: 32px;
+    width: 75px;
+    position: absolute;
+    top: 105px;
+    left:63px;
+    
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
